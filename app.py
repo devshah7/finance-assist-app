@@ -13,7 +13,7 @@ load_dotenv()
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 # File upload section
-st.title("Finance Assist App")
+st.title("Finanssist App")
 
 # Remove the default file check and enforce file upload
 uploaded_file = st.file_uploader("Upload your transactions CSV file", type="csv")
