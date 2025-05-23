@@ -1,6 +1,8 @@
 streamlit
 pandas
+python-dotenv
 langchain
 langchain_openai
 langchain_experimental
 tabulate
+openai
